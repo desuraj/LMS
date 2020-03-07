@@ -1,8 +1,4 @@
-# This is Library Management System 
-# Librarian (Admin) userid/password = 123
-# Student/Faculty LogIn with their Library Id
-# adminclass module consist of all the method initialization which can access by Librarian(Admin)
-# studentclass module consist of all the method initialization which can acces by student
-# facultyclass module consist of all the method initialization which can acces by faculty
-# function module consist of all the method definition
-                         
+Description: Designed library management system, to assist the management to keep a note on number of books issue, circulation of books, revenue generated and to validate the missing products. 
+
+Code in python Language using File Handling.
+Saves the details in file and can be retrieve further as information.
